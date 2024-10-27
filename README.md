@@ -1,2 +1,2 @@
 # HTML BASIC 
-This is ablout tyhe basdic tags used in html
+This is about tyhe basic tags used in html
